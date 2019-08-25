@@ -1,6 +1,6 @@
 {
 	"name": "electron-is-camera-on",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"description": "Check if the built-in Mac camera is on",
 	"license": "MIT",
 	"repository": "morajabi/electron-is-camera-on",
@@ -39,7 +39,7 @@
 	],
 	"dependencies": {
 		"electron-util": "^0.12.1",
-		"execa": "^0.8.0",
+		"execa": "^2.0.1",
 		"macos-version": "^4.0.1"
 	},
 	"devDependencies": {
