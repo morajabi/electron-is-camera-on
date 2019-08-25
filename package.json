@@ -39,6 +39,7 @@
 	],
 	"dependencies": {
 		"execa": "^0.8.0",
+		"electron-util": "^0.12.1",
 		"macos-version": "^4.0.1"
 	},
 	"devDependencies": {
